@@ -1,0 +1,27 @@
+[
+	{
+		"question" : ["hi", "Whats Up?"],
+		"message" : "Hello",
+		"answer" : ["Whats Up?" , "Get a tour" , "Contact Sales" , "Do you have a space?" , "Become Partner"]
+	},
+	{
+		"question" : ["Get a tour"],
+		"message" : "Coming soon",
+		"answer" : ["see technology","I am vendor","I am customer"]
+	},
+	{
+		"question" : ["Contact Sales"],
+		"message" : "9999999999",
+		"answer" : ["call service","mail support"]
+	},
+	{
+		"question" : ["I have space to park"],
+		"message" : "you can contact sales",
+		"answer" : ["Contact Sales","option2"]
+	},
+	{
+		"question" : ["Become Partner"],
+		"message" : "Thanks for showing interest",
+		"answer" : ["yes willing!","no thanks :)"]
+	}
+]
